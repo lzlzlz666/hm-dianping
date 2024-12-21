@@ -12,6 +12,7 @@ spring:
     host: 172.24.133.32
     port: 6379
     password: 888Taotao@
+    database: 1
     lettuce:
       pool:
         max-active: 10
