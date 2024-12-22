@@ -9,7 +9,7 @@ spring:
     username: root
     password: 888Taotao@
   redis:
-    host: 172.24.133.32
+    host: 172.20.10.76
     port: 6379
     password: 888Taotao@
     database: 1
